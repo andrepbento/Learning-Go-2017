@@ -5,4 +5,5 @@ This series of tutorials are on [based on Go by Example](https://gobyexample.com
 
 ## Contents covered in the tutorials
 
-1. Hello World
+1. [Hello World](./01_Hello_World)
+2. [Values](./02_Values)
