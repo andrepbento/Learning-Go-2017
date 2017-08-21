@@ -17,3 +17,4 @@ This project consists of a series of topics  about GoLang.
 10. [Maps](./10_Maps)
 11. [Range](./11_Range)
 12. [Functions](./12_Functions)
+13. [Multiple Return Values](./13_Multiple_Return_Values)
