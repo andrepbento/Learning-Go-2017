@@ -1,7 +1,7 @@
 # Learning-Go-2017
-This project consists of a series of tutorials about GoLang.
+This project consists of a series of topics  about GoLang.
 
-This series of tutorials are on [based on Go by Example](https://gobyexample.com/).
+#### [Based on Go by Example](https://gobyexample.com/).
 
 ## Contents covered in the tutorials
 
@@ -13,3 +13,4 @@ This series of tutorials are on [based on Go by Example](https://gobyexample.com
 6. [If/Else](./06_If_Else)
 7. [Switch](./07_Switch)
 8. [Arrays](./08_Arrays)
+9. [Slices](./09_Slices)
