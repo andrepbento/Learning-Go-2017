@@ -8,4 +8,5 @@ This series of tutorials are on [based on Go by Example](https://gobyexample.com
 1. [Hello World](./01_Hello_World)
 2. [Values](./02_Values)
 3. [Variables](./03_Variables)
-3. [Constatnts](./04_Constants)
+4. [Constatnts](./04_Constants)
+5. [For](./05_For)
