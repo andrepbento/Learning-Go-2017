@@ -11,3 +11,4 @@ This series of tutorials are on [based on Go by Example](https://gobyexample.com
 4. [Constatnts](./04_Constants)
 5. [For](./05_For)
 6. [If/Else](./06_If_Else)
+7. [Switch](./07_Switch)
