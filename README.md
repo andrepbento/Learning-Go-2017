@@ -15,3 +15,4 @@ This project consists of a series of topics  about GoLang.
 8. [Arrays](./08_Arrays)
 9. [Slices](./09_Slices)
 10. [Maps](./10_Maps)
+11. [Range](./11_Range)
