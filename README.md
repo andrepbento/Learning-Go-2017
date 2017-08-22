@@ -21,6 +21,7 @@ This project consists of a series of topics  about GoLang.
 16. [Recursion](./16_Recursion)
 17. [Pointers](./17_Pointers)
 18. [Structs](./18_Structs)
+19. [Methods](./19_Methods)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
