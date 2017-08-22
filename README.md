@@ -1,8 +1,6 @@
 # Learning-Go-2017
 This project consists of a series of topics  about GoLang.
 
-#### [Based on Go by Example](https://gobyexample.com/).
-
 ## Contents covered in the tutorials
 
 1. [Hello World](./01_Hello_World)
@@ -20,3 +18,7 @@ This project consists of a series of topics  about GoLang.
 13. [Multiple Return Values](./13_Multiple_Return_Values)
 14. [Variadic Functions](./14_Variadic_Functions)
 15. [Closures](./15_Closures)
+16. [Recursion](./16_Recursion)
+
+---
+#### [Based on Go by Example](https://gobyexample.com/).
