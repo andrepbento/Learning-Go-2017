@@ -19,6 +19,7 @@ This project consists of a series of topics  about GoLang.
 14. [Variadic Functions](./14_Variadic_Functions)
 15. [Closures](./15_Closures)
 16. [Recursion](./16_Recursion)
+17. [Pointers](./17_Pointers)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
