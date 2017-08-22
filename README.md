@@ -1,4 +1,4 @@
-# Learning-Go-2017
+# Learning Go 2017
 This project consists of a series of topics  about GoLang.
 
 ## Contents covered in the tutorials
@@ -22,6 +22,7 @@ This project consists of a series of topics  about GoLang.
 17. [Pointers](./17_Pointers)
 18. [Structs](./18_Structs)
 19. [Methods](./19_Methods)
+20. [Interfaces](./20_Interfaces)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
