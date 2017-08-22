@@ -20,6 +20,7 @@ This project consists of a series of topics  about GoLang.
 15. [Closures](./15_Closures)
 16. [Recursion](./16_Recursion)
 17. [Pointers](./17_Pointers)
+18. [Structs](./18_Structs)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
