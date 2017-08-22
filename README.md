@@ -23,6 +23,7 @@ This project consists of a series of topics  about GoLang.
 18. [Structs](./18_Structs)
 19. [Methods](./19_Methods)
 20. [Interfaces](./20_Interfaces)
+20. [Errors](./21_Errors)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
