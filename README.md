@@ -27,6 +27,7 @@ This project consists of a series of topics  about GoLang.
 22. [Goroutines](./22_Goroutines)
 23. [Channels](./23_Channels)
 24. [Channel Buffering](./24_Channel_Buffering)
+25. [Channel Synchronization](./25_Channel_Synchronization)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
