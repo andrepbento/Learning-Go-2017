@@ -19,3 +19,4 @@ This project consists of a series of topics  about GoLang.
 12. [Functions](./12_Functions)
 13. [Multiple Return Values](./13_Multiple_Return_Values)
 14. [Variadic Functions](./14_Variadic_Functions)
+15. [Closures](./15_Closures)
