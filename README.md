@@ -30,6 +30,7 @@ This project consists of a series of topics  about GoLang.
 25. [Channel Synchronization](./25_Channel_Synchronization)
 26. [Channel Directions](./26_Channel_Directions)
 27. [Select](./27_Select)
+28. [Timeouts](./28_Timeouts)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
