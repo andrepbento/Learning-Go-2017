@@ -1,12 +1,12 @@
 # Learning Go 2017
 This project consists of a series of topics  about GoLang.
 
-## Contents covered in the tutorials
+## Contents covered in the examples
 
 1. [Hello World](./01_Hello_World)
 2. [Values](./02_Values)
 3. [Variables](./03_Variables)
-4. [Constatnts](./04_Constants)
+4. [Constants](./04_Constants)
 5. [For](./05_For)
 6. [If/Else](./06_If_Else)
 7. [Switch](./07_Switch)
@@ -31,6 +31,7 @@ This project consists of a series of topics  about GoLang.
 26. [Channel Directions](./26_Channel_Directions)
 27. [Select](./27_Select)
 28. [Timeouts](./28_Timeouts)
+29. [Non Blocking Channel Operations](./29_Non_Blocking_Channel_Operations)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
