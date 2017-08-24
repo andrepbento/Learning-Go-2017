@@ -33,6 +33,7 @@ This project consists of a series of topics  about GoLang.
 28. [Timeouts](./28_Timeouts)
 29. [Non Blocking Channel Operations](./29_Non_Blocking_Channel_Operations)
 30. [Closing Channels](./30_Closing_Channels)
+31. [Range over](./31_Range_Over_Channels)
 
 ---
 #### [Based on Go by Example](https://gobyexample.com/).
