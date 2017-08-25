@@ -34,8 +34,9 @@ This project consists of a series of topics  about GoLang.
 29. [Non Blocking Channel Operations](./29_Non_Blocking_Channel_Operations)
 30. [Closing Channels](./30_Closing_Channels)
 31. [Range over Channels](./31_Range_Over_Channels)
-32. [Tickers](./33_Tickers)
-33. [WorkerPools](./34_Worker_Pools)
+32. [Timers](./32_Timers)
+33. [Tickers](./33_Tickers)
+34. [WorkerPools](./34_Worker_Pools)
 
 ## Go Tour
 
